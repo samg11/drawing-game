@@ -1,16 +1,18 @@
 Keyboard Bindings:,
+,
+Move square,
 Up Arrow:,Move square up
 Down Arrow:,Move square down
 Left Arrow:,Move square left
 Right Arrow:,Move square right
 ,
-colors:,
+Colors:,
 'd':,Make square black
 'r':,Make square red
 'g':,Make square green
 'b':,Make square blue
 ,
-pen:,
+Pen:,
 Space Bar:,Toggle pen
 'w':,Increase pen size
 's':,Decrease pen size
