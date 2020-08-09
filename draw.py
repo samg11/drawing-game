@@ -151,6 +151,3 @@ while running:
 	box.pensize(ps) # sets the pensize the "ps" variable
 
 	move() # moves by calling the move function
-	
-
-#game.mainloop()
